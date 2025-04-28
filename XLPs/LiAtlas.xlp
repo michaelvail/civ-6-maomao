@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="EunuchAtlas22"/>
+			<m_ObjectName text="EunuchAtlas22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas200"/>
+			<m_ObjectName text="EunuchAtlas200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas256"/>
+			<m_ObjectName text="EunuchAtlas256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas32"/>
+			<m_ObjectName text="EunuchAtlas32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas38"/>
+			<m_ObjectName text="EunuchAtlas38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas50"/>
+			<m_ObjectName text="EunuchAtlas50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas64"/>
+			<m_ObjectName text="EunuchAtlas64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas70"/>
+			<m_ObjectName text="EunuchAtlas70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas80"/>
+			<m_ObjectName text="EunuchAtlas80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchAtlas95"/>
+			<m_ObjectName text="EunuchAtlas95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EunuchHistoricMoment"/>
+			<m_ObjectName text="EunuchHistoricMoment"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAOMAO_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAOMAO_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAOMAO_DIPLO_BG"/>
+			<m_ObjectName text="LEADER_MAOMAO_DIPLO_BG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAOMAO_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAOMAO_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas200"/>
+			<m_ObjectName text="LiAtlas200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas22"/>
+			<m_ObjectName text="LiAtlas22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas256"/>
+			<m_ObjectName text="LiAtlas256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas30"/>
+			<m_ObjectName text="LiAtlas30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas36"/>
+			<m_ObjectName text="LiAtlas36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas48"/>
+			<m_ObjectName text="LiAtlas48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas50"/>
+			<m_ObjectName text="LiAtlas50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas64"/>
+			<m_ObjectName text="LiAtlas64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LiAtlas80"/>
+			<m_ObjectName text="LiAtlas80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon256"/>
+			<m_ObjectName text="MaomaoIcon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon32"/>
+			<m_ObjectName text="MaomaoIcon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon45"/>
+			<m_ObjectName text="MaomaoIcon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon48"/>
+			<m_ObjectName text="MaomaoIcon48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon50"/>
+			<m_ObjectName text="MaomaoIcon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon55"/>
+			<m_ObjectName text="MaomaoIcon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon64"/>
+			<m_ObjectName text="MaomaoIcon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MaomaoIcon80"/>
+			<m_ObjectName text="MaomaoIcon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure200"/>
+			<m_ObjectName text="Pleasure200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure256"/>
+			<m_ObjectName text="Pleasure256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure38"/>
+			<m_ObjectName text="Pleasure38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure40"/>
+			<m_ObjectName text="Pleasure40"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure50"/>
+			<m_ObjectName text="Pleasure50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure64"/>
+			<m_ObjectName text="Pleasure64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pleasure80"/>
+			<m_ObjectName text="Pleasure80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse200"/>
+			<m_ObjectName text="VerdigrisHouse200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse256"/>
+			<m_ObjectName text="VerdigrisHouse256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse38"/>
+			<m_ObjectName text="VerdigrisHouse38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse40"/>
+			<m_ObjectName text="VerdigrisHouse40"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse50"/>
+			<m_ObjectName text="VerdigrisHouse50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse64"/>
+			<m_ObjectName text="VerdigrisHouse64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouse80"/>
+			<m_ObjectName text="VerdigrisHouse80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VerdigrisHouseHistoricMoment"/>
+			<m_ObjectName text="VerdigrisHouseHistoricMoment"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
